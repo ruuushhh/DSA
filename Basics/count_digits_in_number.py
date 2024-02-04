@@ -7,5 +7,4 @@ def count_digits(x: int):
 
 
 n = int(input())
-
 print(count_digits(n))
